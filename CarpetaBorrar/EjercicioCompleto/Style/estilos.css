@@ -1,0 +1,56 @@
+#primerh2{
+    background-color: darkblue;
+    color: aqua;
+}
+#programa1 {
+    text-align: center;
+    border-style:dashed;
+    border-color: burlywood;
+        
+}
+#imagen {
+    width: 50ex;
+    height: 25ex;
+    float: left;
+}
+#imagen2 {
+    width: 50ex;
+    height: 25ex;
+    float: right;
+}
+#raya1{
+    height: 2px;
+    background-color: black;
+}
+#rojo{
+    color: red;
+    font-weight: bold;
+}
+
+#divPrincipal{
+    border: 2px solid;
+    display: inline-block;
+}
+
+#divp1{
+    width: 45%;
+    float: left;
+    border-right: 2px solid;
+}
+#divp2{
+    width: 45%;
+    float: right;
+    border-left: 2px solid;
+}
+#divh2{
+    border: 2px solid;
+}
+#divImg{
+   display: inline-block;
+   display: flex;
+   justify-content: space-between;
+}
+
+#hrFinal{
+    border: 2px solid black;
+}
